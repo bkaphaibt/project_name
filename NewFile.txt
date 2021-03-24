@@ -1,0 +1,1 @@
+Đây là dữ liệu của file NewFile.txt ở nhánh my_branch
